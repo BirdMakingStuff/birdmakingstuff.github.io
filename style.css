@@ -51,15 +51,26 @@ h2 a {
     text-decoration: none;
 }
 
+h2 img {
+    width: 0.74em;
+    height: 0.74em;
+    object-fit: contain;
+    display: inline-block;
+    margin-right: 0.2em;
+}
+
 a:active {
     color: rgb(0, 230, 0);
+    text-decoration: underline dotted;
+}
+
+a:visited {
     text-decoration: underline;
 }
 
 a {
     text-decoration-style: dashed;
     color: rgb(0, 200, 0);
-    text-decoration: dotted;
 }
 
 .sidebar {
