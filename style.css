@@ -86,6 +86,14 @@ a {
     background-color: rgb(30, 30, 30);
 }
 
+.logo img {
+    height: 420px;
+    width: 420px;
+    display: block;
+    margin: auto;
+    justify-content: center;
+}
+
 @media screen and (max-width: 700px) {
     .sidebar {
         height: auto;
@@ -93,15 +101,14 @@ a {
         position: sticky;
     }
 
+    .logo img {
+        height: 180px;
+        width: 180px;
+    }
+
     main {
         margin-left: 0px;
     }
-}
-
-.logo img {
-    display: block;
-    margin: auto;
-    justify-content: center;
 }
 
 .social img {
