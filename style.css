@@ -1,6 +1,6 @@
 html {
     font-family: "Source Sans 3", Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(3, 17, 3);
     color: #ffffff;
 }
 
@@ -12,7 +12,7 @@ main {
 }
 
 h1 {
-    font-family: 'Source Code Pro', 'Source Sans Pro', Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Source Code Pro', 'Source Sans 3', Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24pt;
     font-weight: 900;
     /* background-color: rgb(30, 30, 30);
@@ -26,8 +26,8 @@ h1 {
 h2 {
     font-family: 'Source Code Pro', 'Source Sans Pro', Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
-    background-color: rgb(30, 30, 30);
-    border-color: rgb(30, 30, 30);
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
     border-width: 0.3em;
     border-radius: 10px;
     padding: 5px 5px 5px 10px;
